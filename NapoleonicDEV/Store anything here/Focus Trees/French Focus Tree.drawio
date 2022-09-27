@@ -1,1 +1,111 @@
-<mxfile host="Electron" modified="2022-04-18T22:03:12.993Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/16.1.2 Chrome/96.0.4664.55 Electron/16.0.5 Safari/537.36" etag="JQeQH_YK3q0t-efQx9hO" version="16.1.2" type="device"><diagram id="1d4nGFuIeH1OPyMS3UdM" name="Page-1">1Vtbc5s4FP41fmwGxMXmMU3SNjvZXW/S3baPCihGXUCMkG/761eAuEmNjcc2gpkMkQ4CSed839HRQZ5Zd/HuM4Vp+DsJUDQDRrCbWfczAEwbgFn+ZwT7UrJwnVKwojgQjRrBC/4PCaEhpGscoKzTkBESMZx2hT5JEuSzjgxSSrbdZm8k6vaawhVSBC8+jFTpNxywUMwCzBv5F4RXYdWz6XrlnVfo/7uiZJ2I/hKSoPJODKvXiDlmIQzIttWf9TCz7ighrCzFuzsU5WqtNFY+9+mdu/WQKUpYnwe86OnP7+YHRP56TFKbOH+E3358EHbL2L5SBQq4ZkSVUBaSFUlg9NBIPxbTRflbDV5r2jwRknKhyYU/EWN7YWa4ZoSLQhZH4q46cjGZjKypjw4MV7TLxygrkmMTkRgxuucNKIogw5uudaEAyapuVz+6JJgPBRgC0LYhbCbgbFY2rF7BIF0hJp5qdM4LrWE0osISJ1hFDHgDo7WYwgvOGKJc9ozS9WuEfV4kbzlNQo43437N/FAxZddQ2xAz9JLCQsFbzuOeRtkgytDuoLrFXcvuqq2qbhtK1ZoMW3RyjfcN1FHtqXq0p4VuSw+6gTEsui0F3Xc4g1GKc9fZAvjI0FxDVxuc3WnB2dEE58WwcHYUOC8xCmKSMJSNGtA177UBejEtQM+HAXQNYGEnS9b/tf2zlqCQW4Puv+fP3zjuvBL8KASGZVWC+53ooqzt27UlophPnsdJpfBsS5eKPhSoGVeBxC2lcN9qkOamzt5HjAMWXcSYhgSM8o0Xhclc8XtfULRBrIhNx+v0Frqdnj2xqNTrywX70lw4S82eAs9nEsOkg00XxjniktcsrVWkEat1qkB2/Pqw6uheCoAjLQXGfNiloHLxx/F/8e3bWaarxt0iwN/cLDQut1kfKWY4C3np1vdRluUzJPzymAQYameC7Y6OCRPbfFVoPA7b60S1p4cwXYs7npTNPLLrk9pfJ+Qx1dTFC0arnE9FMu7Wp2h03LE97dyZT4w7F49k+mHY7ZlmPpVb8oZynNyyFW79Bn3yivOQbRkRpp1Ycnimn1g1orWFZ53g7EhgdgYh++7HK+2PJAYDWjIp5+v52o7PlRzMoucXiFMdn+zI5s5hxyePS2p/HccHdO+xbBtoTrf15/d1VuZr4woY1vC4MtUE3dPaxyjBGSsWqCjVvqTK2bk6AtK3pE5sn3f5Fa8f5L2Bj0RU3bXQ/LU4+vCGaYFnnyTZOhodohfaP7JZhqKUIdcXs7u2OEdWljOY0DfjAcaR8ZCDDW+QYEPNYCzJtjhZRDbFv/JA0UOcIkro6FLkzujoBbR8xG7Ct8HoZU+LXkAHvWyVXhMLJ3pbeWQ7bTV79Eu/lpJUf4bWHJ0TsyZ2EudKPub4QWDDHjjsVTdxj3nvMb+U8e8z2pBozTBJtONajn097bs5Sz0F8E+OBmA8QX75RGHi6/cHyklTQ//JafUIuqKmLIRpXnyL0O42/xFGEW0EonjvRzDLsM+FGScJU8UtJUoaF7N2bxbO3LRBfS07EP7EuXHdzv1DxjjqKNqaNn6h6Vp4rkeRvs4tLMmEpe9THIr6wVReROQXXdkz2WCSCEE7zOptKS+XYbPtOaLexM15Zd+qXC7d2TuLORQowfxCoFSyH8C7mZsXwiWvNr+WKps3v0azHv4H</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-09-27T08:11:24.995Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36 Edg/105.0.1343.50" etag="_xegGmmZlobOVv8ZfNgy" version="20.3.6" type="github">
+  <diagram id="1d4nGFuIeH1OPyMS3UdM" name="Page-1">
+    <mxGraphModel dx="1417" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="none" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="9lLOX1-eoQInp4o5NhWY-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9lLOX1-eoQInp4o5NhWY-7" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="280" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9lLOX1-eoQInp4o5NhWY-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.567;entryY=0.033;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="9lLOX1-eoQInp4o5NhWY-7" target="9lLOX1-eoQInp4o5NhWY-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="528" y="310" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9lLOX1-eoQInp4o5NhWY-7" value="The Grand Election" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="340" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9lLOX1-eoQInp4o5NhWY-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9lLOX1-eoQInp4o5NhWY-9" target="9lLOX1-eoQInp4o5NhWY-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9lLOX1-eoQInp4o5NhWY-9" value="Maintain the Old Order" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cUjtvMtSS1TBpcQT_s8V-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9lLOX1-eoQInp4o5NhWY-10" target="9lLOX1-eoQInp4o5NhWY-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9lLOX1-eoQInp4o5NhWY-10" value="A New Paradise" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="9lLOX1-eoQInp4o5NhWY-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="9lLOX1-eoQInp4o5NhWY-13" target="9lLOX1-eoQInp4o5NhWY-17" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="520" y="620" />
+              <mxPoint x="520" y="620" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="9lLOX1-eoQInp4o5NhWY-13" value="Father Yak Takes Power&lt;br&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="460" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cUjtvMtSS1TBpcQT_s8V-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9lLOX1-eoQInp4o5NhWY-14" target="cUjtvMtSS1TBpcQT_s8V-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9lLOX1-eoQInp4o5NhWY-14" value="Shun Fancy Things" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="220" y="490" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cUjtvMtSS1TBpcQT_s8V-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="9lLOX1-eoQInp4o5NhWY-17" target="cUjtvMtSS1TBpcQT_s8V-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="9lLOX1-eoQInp4o5NhWY-17" value="Party Like it&#39;s 1699" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="465" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cUjtvMtSS1TBpcQT_s8V-1" value="" style="shape=flexArrow;endArrow=classic;startArrow=classic;html=1;rounded=0;width=6.857142857142857;endSize=5.668571428571428;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="9lLOX1-eoQInp4o5NhWY-9" target="9lLOX1-eoQInp4o5NhWY-10">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="360" y="389.5" as="sourcePoint" />
+            <mxPoint x="440" y="389.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cUjtvMtSS1TBpcQT_s8V-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cUjtvMtSS1TBpcQT_s8V-3" target="cUjtvMtSS1TBpcQT_s8V-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cUjtvMtSS1TBpcQT_s8V-3" value="Communists in Power" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="280" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cUjtvMtSS1TBpcQT_s8V-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cUjtvMtSS1TBpcQT_s8V-4" target="cUjtvMtSS1TBpcQT_s8V-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cUjtvMtSS1TBpcQT_s8V-4" value="New Industrialization" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="420" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cUjtvMtSS1TBpcQT_s8V-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cUjtvMtSS1TBpcQT_s8V-6" target="cUjtvMtSS1TBpcQT_s8V-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cUjtvMtSS1TBpcQT_s8V-6" value="Abandon the old ways" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="560" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cUjtvMtSS1TBpcQT_s8V-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cUjtvMtSS1TBpcQT_s8V-8" target="cUjtvMtSS1TBpcQT_s8V-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cUjtvMtSS1TBpcQT_s8V-8" value="Embrace the New" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="700" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cUjtvMtSS1TBpcQT_s8V-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cUjtvMtSS1TBpcQT_s8V-10" target="cUjtvMtSS1TBpcQT_s8V-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cUjtvMtSS1TBpcQT_s8V-10" value="Tow the Line with Solomon" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="840" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cUjtvMtSS1TBpcQT_s8V-12" value="Worker&#39;s Paradise" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1020" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cUjtvMtSS1TBpcQT_s8V-14" value="Ask the Mainland for Trains" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="220" y="630" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cUjtvMtSS1TBpcQT_s8V-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="cUjtvMtSS1TBpcQT_s8V-17" target="cUjtvMtSS1TBpcQT_s8V-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cUjtvMtSS1TBpcQT_s8V-17" value="Amish with Tunes&lt;br&gt;(get rid of Demiliterized zone)" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="770" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cUjtvMtSS1TBpcQT_s8V-19" value="Finally pay the phone bill" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="465" y="910" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
